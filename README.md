@@ -1,2 +1,1 @@
-# rentvent-web
-all web assets
+all landlord assets - web forms and apis
