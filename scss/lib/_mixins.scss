@@ -1,0 +1,9 @@
+
+// Select2 Skins
+@mixin select2-outline-color($color) {
+  border-color: $color;
+  background-color: transparent;
+
+  .select2-selection__rendered { color: $color; }
+  .select2-selection__arrow b { border-top-color: $color; }
+}
